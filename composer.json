@@ -1,0 +1,18 @@
+{
+    "name": "pres1av/woo-product-gift",
+    "type": "wordpress-plugin",
+    "description": "WooCommerce Gift Product for RezusNutrition",
+    "keywords": ["wordpress","plugin"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Staykov",
+            "email": "stefan@poweredbycoffee.co.uk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
